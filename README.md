@@ -1,8 +1,8 @@
 ### Falaa Devv! Eu sou o Alan / lanDev01👨🏻‍💻
 
-- 🌱 Estudando C# 
-- 💬 Ask me about ...
-- 📫 How to reach me:  
+- 📖 Estudando C# 💜
+- 💬 Qualquer dúvida pode entrar em contato!
+- 📫 Pode entrar em contato no meu <a href="https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/">Linkedin</a>!
 
 
 ##
@@ -33,4 +33,4 @@
   
 </div>
 
-![Snake animation](https://github.com/lanDev01/lanDev01/blob/output/github-contribution-grid-snake.svg)
+
