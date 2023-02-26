@@ -10,7 +10,7 @@
 <div>
   
 <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=lanDev01&show_icons=true&theme=transparent" />
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanDev01&hide_progress=true&theme=transparent" />
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanDev01&hide_progress=true&theme=transparent" />
 
 </div>
 
