@@ -1,6 +1,6 @@
 ### Falaa Devv! Eu sou o Alan / lanDev01👨🏻‍💻
 
-- 📖 Estudando C# 💜
+- 📖 Estudando Ts💙
 - 💬 Qualquer dúvida pode entrar em contato!
 - 📫 Pode entrar em contato no meu <a href="https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/">Linkedin</a>!
 
