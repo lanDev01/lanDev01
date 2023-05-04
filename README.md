@@ -1,6 +1,6 @@
 ### Falaa Devv! Eu sou o Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de desenvolvimento web na  [**Var Solutions**](https://github.com/varsolutions)). 🚀
+Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de desenvolvimento web na  [**Var Solutions**](https://github.com/varsolutions). 🚀
 
 #### Minhas ferramentas atuais
 🌎 Front-end Web com Reactjs  
