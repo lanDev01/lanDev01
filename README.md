@@ -1,14 +1,17 @@
+### Falaa Devv! Eu sou o Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+
+Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de desenvolvimento web na  [**Var Solutions**](https://github.com/varsolutions)). 🚀
+
+#### Minhas ferramentas atuais
+🌎 Front-end Web com Reactjs  
+📡 Back-end com Nodejs  
+🛠️ Typescript   
+🧰 And more...  
 
 
-### Falaa Devv! Eu sou o Alan / lanDev01👨🏻‍💻
-
-- 📖 Estudando Ts💙
-- 💬 Qualquer dúvida pode entrar em contato!
-- 📫 Pode entrar em contato no meu <a href="https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/">Linkedin</a>!
-
-
-##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=header"/>
+
+
 
 <div>
   
@@ -17,7 +20,7 @@
 
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: flex" justify-content: "center";><br>
     <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,11 +31,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=footer"/>
 
-<div>
-  <a href="https://www.instagram.com/_juninhoo011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:lnjnr9215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
+### 💬 Encontre-me em outro lugar
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-goncalves/)](https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/) 
+[![Gmail Badge](https://img.shields.io/badge/-alnjr0001@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alnjr0001@outlook.com)](mailto:alnjr0001@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/)](https://www.instagram.com/_juninhoo011/)
 
