@@ -1,3 +1,5 @@
+
+
 ### Falaa Devv! Eu sou o Alan / lanDev01👨🏻‍💻
 
 - 📖 Estudando Ts💙
@@ -6,6 +8,7 @@
 
 
 ##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=header"/>
 
 <div>
   
@@ -23,12 +26,12 @@
     <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
 
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=footer"/>
 
 <div>
   <a href="https://www.instagram.com/_juninhoo011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lnjnr9215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="mailto:lnjnr9215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
