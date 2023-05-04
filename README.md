@@ -6,7 +6,7 @@ Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de de
 🌎 Front-end Web com Reactjs  
 📡 Back-end com Nodejs  
 🛠️ Typescript   
-🧰 And more...  
+🧰 E mais...  
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=header"/>
@@ -32,8 +32,8 @@ Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de de
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=415ce1&height=120&section=footer"/>
 
 </div>
-### 💬 Encontre-me em outro lugar
-<br />
+
+#### 💬 Encontre-me em outro lugar
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-goncalves/)](https://www.linkedin.com/in/alan-gon%C3%A7alves-261699244/) 
 [![Gmail Badge](https://img.shields.io/badge/-alnjr0001@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alnjr0001@outlook.com)](mailto:alnjr0001@outlook.com)
