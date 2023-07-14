@@ -25,7 +25,7 @@ Eu sou um desenvolvedor de software Jr. Atualmente trabalho como consultor de de
 
 <br />
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,ts,react,nodejs,mysql)](https://skills.thijs.gg)
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,ts,react,next,angular,nodejs,mysql)](https://skills.thijs.gg)
 </div>
 
 
