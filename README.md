@@ -1,7 +1,7 @@
 
 ### Falaa Devv! Eu sou o Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Eu sou um desenvolvedor de software Jr. Atualmente trabalho com desenvolvimento web na  [**IpoolCare**](https://github.com/ipoolcare). 🚀
+Eu sou um desenvolvedor de software Jr. Atualmente trabalho com desenvolvedor front end [**IpoolCare**](https://github.com/ipoolcare). 🚀
 
 #### Minhas ferramentas atuais
 🌎 Front-end Web com AngularJs  
