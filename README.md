@@ -6,8 +6,7 @@ Eu sou um desenvolvedor de software Jr. Atualmente trabalho com desenvolvedor fr
 #### Minhas ferramentas atuais
 🌎 Front-end Web com AngularJs  
 📡 Back-end com Nodejs  
-🛠️ Typescript   
-🧰 E mais...  
+🛠️ Typescript
 
 
 
